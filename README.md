@@ -5,10 +5,14 @@ I will be participating in the 30 day challenege outlined here: https://medium.c
 This is the second 30 day challenge I'm attempting. First one here: https://github.com/dlfedie/personal_changelog
 
 ---
+#### Saturday, January 4th, 2020
+- [x] Java course
+
+
 #### Friday, January 3rd, 2020
-- [ ] Actually read!
+- [x] Actually read!
 - [ ] Row
-- [ ] Keep going on projects.
+- [x] Keep going on projects.
 
 #### Thursday, January 2nd, 2020
 - [ ] Read Clean Code

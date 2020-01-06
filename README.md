@@ -5,9 +5,13 @@ I will be participating in the 30 day challenege outlined here: https://medium.c
 This is the second 30 day challenge I'm attempting. First one here: https://github.com/dlfedie/personal_changelog
 
 ---
+#### Monday, January 6th, 2020
+- [x] Riiiight. The weekend. Woof. That happened. However today I did do some of the Java course!
+- [x] Apply/followup for jobses
+- [x] Broomball!!
+
 #### Saturday, January 4th, 2020
 - [x] Java course
-
 
 #### Friday, January 3rd, 2020
 - [x] Actually read!

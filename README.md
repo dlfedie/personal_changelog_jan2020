@@ -5,6 +5,10 @@ I will be participating in the 30 day challenege outlined here: https://medium.c
 This is the second 30 day challenge I'm attempting. First one here: https://github.com/dlfedie/personal_changelog
 
 ---
+#### Tuesday, January 7th, 2020
+- [x] Started Advent of Code to get some reps in on code challenges: https://adventofcode.com/
+- [x] Java course
+
 #### Monday, January 6th, 2020
 - [x] Riiiight. The weekend. Woof. That happened. However today I did do some of the Java course!
 - [x] Apply/followup for jobses

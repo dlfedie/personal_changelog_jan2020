@@ -5,6 +5,13 @@ I will be participating in the 30 day challenege outlined here: https://medium.c
 This is the second 30 day challenge I'm attempting. First one here: https://github.com/dlfedie/personal_changelog
 
 ---
+#### Wednesday, January 8th, 2020
+- [x] Alum scrum @ Prime
+- [x] Haircut!! Seriously, this is like big for me. Especially in winter? Who wants shorter hair??
+- [x] Advent of code challenge.
+- [x] Java course
+- [x] Actually did about an hour or so of walking today. Felt good to visit Prime by bus and get my walks in!
+
 #### Tuesday, January 7th, 2020
 - [x] Started Advent of Code to get some reps in on code challenges: https://adventofcode.com/
 - [x] Java course

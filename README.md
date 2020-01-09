@@ -5,6 +5,11 @@ I will be participating in the 30 day challenege outlined here: https://medium.c
 This is the second 30 day challenge I'm attempting. First one here: https://github.com/dlfedie/personal_changelog
 
 ---
+#### Thursday, January 9th, 2020
+- [x] Interviews/chats with recruiters.
+- [x] Some of the advent of code. Did not get far..
+- [x] Choir!
+
 #### Wednesday, January 8th, 2020
 - [x] Alum scrum @ Prime
 - [x] Haircut!! Seriously, this is like big for me. Especially in winter? Who wants shorter hair??

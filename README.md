@@ -6,6 +6,12 @@ This is the second 30 day challenge I'm attempting. First one here: https://gith
 
 ---
 #### Thursday, January 9th, 2020
+- [x] Code challenges!
+- [x] Emails/followups to recruiters.
+- [ ] Java course
+- [ ] Broomball game scheduled!
+
+#### Thursday, January 9th, 2020
 - [x] Interviews/chats with recruiters.
 - [x] Some of the advent of code. Did not get far..
 - [x] Choir!

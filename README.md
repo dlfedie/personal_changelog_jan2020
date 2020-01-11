@@ -5,11 +5,14 @@ I will be participating in the 30 day challenege outlined here: https://medium.c
 This is the second 30 day challenge I'm attempting. First one here: https://github.com/dlfedie/personal_changelog
 
 ---
-#### Thursday, January 9th, 2020
+#### Friday, January 10th, 2020
+- [x] Code challenges! Finished that darn day 2 one that was giving me fits. I have a feeling javascript is clumsy at it... The arrays kept getting mutated and not reverting when I felt they should.
+
+#### Friday, January 10th, 2020
 - [x] Code challenges!
 - [x] Emails/followups to recruiters.
 - [ ] Java course
-- [ ] Broomball game scheduled!
+- [x] Broomball game!
 
 #### Thursday, January 9th, 2020
 - [x] Interviews/chats with recruiters.

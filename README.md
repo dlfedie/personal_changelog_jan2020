@@ -5,11 +5,20 @@ I will be participating in the 30 day challenege outlined here: https://medium.c
 This is the second 30 day challenge I'm attempting. First one here: https://github.com/dlfedie/personal_changelog
 
 ---
+#### Tuesday, January 12th, 2020
+- [x] Advent of code!
+- [x] Interviews.
+- [ ] Java course
+
+#### Tuesday, January 12th, 2020
+- [x] Extra choir practice. 
+- [x] Interviews as well.
+
 #### Monday, January 13th, 2020
-- [ ] Advent of code again.
-- [ ] Followups/phone interviews
+- [x] Advent of code again.
+- [x] Followups/phone interviews
 - [ ] Check friend's repo that he will demo for a presentation.
-- [ ] Broomball!
+- [x] Broomball!
 
 #### Sunday, January 12th, 2020
 - [x] Didn't commit this yesterday, but broomball! Yay physical activity! Yay sore body the day after!

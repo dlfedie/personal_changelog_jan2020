@@ -5,12 +5,17 @@ I will be participating in the 30 day challenege outlined here: https://medium.c
 This is the second 30 day challenge I'm attempting. First one here: https://github.com/dlfedie/personal_changelog
 
 ---
-#### Tuesday, January 12th, 2020
+#### Thursday-Friday, January 16th-17th, 2020
+- [x] Interviews/applications
+- [x] Choir!
+- [x] Resting, getting ready to shovel out tomorrow after SNOMAGEDDON III: This Time It's in January
+
+#### Wednesday, January 15th, 2020
 - [x] Advent of code!
 - [x] Interviews.
 - [ ] Java course
 
-#### Tuesday, January 12th, 2020
+#### Tuesday, January 14th, 2020
 - [x] Extra choir practice. 
 - [x] Interviews as well.
 

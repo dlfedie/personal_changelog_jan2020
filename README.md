@@ -5,6 +5,16 @@ I will be participating in the 30 day challenege outlined here: https://medium.c
 This is the second 30 day challenge I'm attempting. First one here: https://github.com/dlfedie/personal_changelog
 
 ---
+#### Monday January 20th, 2020
+- [x] Applying and followups
+- [x] Java course
+
+#### Saturday-Sunday, January 18th-19th, 2020
+- [x] Learned how to change a battery for an '04 Camry! In the cold!!
+- [x] ALL OF THE SHOVELLING.
+- [x] Totally slacking off of the GH soft challenge this month.. Oof. 
+
+
 #### Thursday-Friday, January 16th-17th, 2020
 - [x] Interviews/applications
 - [x] Choir!

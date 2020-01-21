@@ -5,9 +5,14 @@ I will be participating in the 30 day challenege outlined here: https://medium.c
 This is the second 30 day challenge I'm attempting. First one here: https://github.com/dlfedie/personal_changelog
 
 ---
+#### Tuesday January 21st, 2020
+- [x] Applying and followups. Met with some folks at a coffee shop and this increased productivity 100%. Maybe it's the coffee...
+- [x] Code challenges (Hackerrank, this time).
+
 #### Monday January 20th, 2020
 - [x] Applying and followups
 - [x] Java course
+- [x] Broomball!
 
 #### Saturday-Sunday, January 18th-19th, 2020
 - [x] Learned how to change a battery for an '04 Camry! In the cold!!

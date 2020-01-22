@@ -9,6 +9,7 @@ This is the second 30 day challenge I'm attempting. First one here: https://gith
 - [x] Code challenges
 - [x] Java course
 - [x] Chores (this was necessary)
+- [x] Advent of code. Still on day 3, but almost done with day 1.
 
 #### Tuesday January 21st, 2020
 - [x] Applying and followups. Met with some folks at a coffee shop and this increased productivity 100%. Maybe it's the coffee...

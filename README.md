@@ -5,6 +5,10 @@ I will be participating in the 30 day challenege outlined here: https://medium.c
 This is the second 30 day challenge I'm attempting. First one here: https://github.com/dlfedie/personal_changelog
 
 ---
+#### Thursday-Friday January 23rd-24th, 2020
+- [x] Code challenges
+- [x] Interviews and emails and everything.
+
 #### Wednesday January 22nd, 2020
 - [x] Code challenges
 - [x] Java course

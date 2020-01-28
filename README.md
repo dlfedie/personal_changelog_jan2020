@@ -5,12 +5,18 @@ I will be participating in the 30 day challenege outlined here: https://medium.c
 This is the second 30 day challenge I'm attempting. First one here: https://github.com/dlfedie/personal_changelog
 
 ---
+#### Tuesday January 28th, 2020
+- [x] Finally finished Day 3 of advent of code. Was kind of a doozy. This shit gets real, quick. Although, learning about scale is a good thing, heh.
+- [x] VS code tricks! With the advent of code, learned a few things about multi-cursor selects, etc. Actually going to be super useful to know at times!
+- [ ] Apply/interview
+- [ ] Java course
+
 #### Monday January 27th, 2020
 Yeesh. This month is rough for keeping up with posting to GH. Just going to power on, some things have happened.
 - [x] Apply/followups
 - [x] Meditation
 - [x] Java course
-- [ ] Broomball in the pm
+- [x] Broomball in the pm
 
 #### Thursday-Friday January 23rd-24th, 2020
 - [x] Code challenges
